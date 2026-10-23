@@ -1,1 +1,2 @@
-# CPE010-DATA-STRUCTURE-AND-ALGORITHM
+# CPE010-Data-Structure-and-Algorithm-Macatangay
+
