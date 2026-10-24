@@ -7,17 +7,17 @@ Academic Year: 2026 - 2027
 **Objectives:**
 
 
-**CILO
+**CILO**
 
 
-TOPICS
+**TOPICS**
 
-PRELIMS:
-
-
-MIDTERMS:
+**PRELIMS:**
 
 
-FINALS:**
+**MIDTERMS:**
+
+
+**FINALS:**
 
 
