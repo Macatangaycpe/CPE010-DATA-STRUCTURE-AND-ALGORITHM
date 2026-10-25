@@ -16,6 +16,13 @@ Academic Year: 2026 - 2027
 
 **PRELIMS:**
 
+Module 1: Introduction to Data Structures and Algorithms
+
+Module 2: Arrays, Pointers and Dynamic Memory Allocation
+
+Module 3: Linked Lists
+
+
 
 **MIDTERMS:**
 
