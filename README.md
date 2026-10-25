@@ -6,8 +6,11 @@ Course: CPE010 Data Structure and Algorithm
 
 Academic Year: 2026 - 2027
 
+Instructor: Engr. Jimlord M. Quejado 
+
 **Objectives:**
 
+Welcome to CPE 010: Data Structures and Algorithms. This course is where programming becomes more strategic. Instead of simply writing code that works, we will learn how to write programs that are organized, efficient, scalable, and appropriate for the problem being solved. In this course, we will explore abstract data types, arrays, linked lists, stacks, queues, searching, sorting, trees, graphs, and algorithm analysis. We will also examine how space and time complexity affect the performance of programs, especially when working with larger and more complex data.
 
 **CILO**
 
