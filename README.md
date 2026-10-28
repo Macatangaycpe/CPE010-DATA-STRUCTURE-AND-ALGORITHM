@@ -41,8 +41,7 @@ Module 9: Trees
 
 Module 10: Graphs
 
-# 
-**FINALS:**
+# **FINALS:**
 
 Module 11: Basic Algorithm Analysis
 
